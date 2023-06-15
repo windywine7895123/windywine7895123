@@ -8,5 +8,10 @@ Hello I'm Computer engineering student who interested Python, GoLang, NextAPI , 
 
 *   🌍  I'm based in Songkhla Thailand
 
-----------------Test from Kali-------------------------------
-Hello World From my Kali destop
+Test from Kali
+
+"Hello World From my Kali desktop"
+
+Test from Ubuntu
+
+"Hello World Frome my Ubuntu desktop"
