@@ -14,4 +14,4 @@ Test from Kali
 
 Test from Ubuntu
 
-"Hello World Frome my Ubuntu desktop"
+"Hello World From my Ubuntu desktop"
